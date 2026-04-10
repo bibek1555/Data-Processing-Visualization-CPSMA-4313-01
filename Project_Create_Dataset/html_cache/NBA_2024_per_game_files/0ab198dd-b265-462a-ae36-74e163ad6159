@@ -1,0 +1,1975 @@
+"use strict";(function(){try{var record=function(name,detail){aps.get(accountId).queue.push(new CustomEvent(name,{detail}))};const accountId="0ab198dd-b265-462a-ae36-74e163ad6159";window._aps=window._aps||new Map;const aps=window._aps;aps.has(accountId)||aps.set(accountId,{queue:[],store:new Map}),record("_config/requestViewerCountry/define",{"code":"PK"});record("analytics/sampling/set",{"rates":{"error":0.001,"status":0.0001}});record("a3pes/banner/activate",{"restrictions":{"allow":{"accountTypes":["ssw"]}}});record("idVendors/enabled/set",{"bidParameterKeys":["liveintent","merkle","intimateMerger","pair","amx","33across","fTrack","captify","publink","anonymised","quantcast","idPlus","unifiedid","ddb_key_638","fabrick","uid","criteo","yahoo","liveRamp","id5","pubcommon","audigent","lightPublisherAudiences","lotame"]});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"33across","propertyId":"0013300001cFpYHAA0","allowedRegions":["JP","US","AU","CA"],"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+["JP","US","AU","CA"]?["JP","US","AU","CA"].includes("PK")&&(function anonymous(
+) {
+var lexiconPropertyId = '0013300001cFpYHAA0';
+if (lexiconPropertyId && lexiconPropertyId.charAt(0) !== '%') {
+  if (!window._33AcrossIdMappingsProvider) {
+    createlexiconScript(lexiconPropertyId);
+  }
+}
+
+function createlexiconScript(id) {
+  var lexiconScript = document.createElement('script');
+  lexiconScript.src = 'https://cdn-ima.33across.com/ima.js';
+  lexiconScript['onload'] = function (e) {
+    const my33AcrossIdProvider = new _33AcrossIdMappingsProvider({
+      pid: id,
+      refreshInSeconds: 60 * 60 * 8,
+      expires: 90,
+      src: 'aps'
+    });
+
+    my33AcrossIdProvider.fetch();
+  };
+  document.head.appendChild(lexiconScript);
+}
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var lexiconPropertyId = '0013300001cFpYHAA0';
+if (lexiconPropertyId && lexiconPropertyId.charAt(0) !== '%') {
+  if (!window._33AcrossIdMappingsProvider) {
+    createlexiconScript(lexiconPropertyId);
+  }
+}
+
+function createlexiconScript(id) {
+  var lexiconScript = document.createElement('script');
+  lexiconScript.src = 'https://cdn-ima.33across.com/ima.js';
+  lexiconScript['onload'] = function (e) {
+    const my33AcrossIdProvider = new _33AcrossIdMappingsProvider({
+      pid: id,
+      refreshInSeconds: 60 * 60 * 8,
+      expires: 90,
+      src: 'aps'
+    });
+
+    my33AcrossIdProvider.fetch();
+  };
+  document.head.appendChild(lexiconScript);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"audigent","propertyId":"474","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__audigent__ = false;}})();
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__audigent__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"id5","propertyId":"882","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var id5PropertyId = '882';
+if (id5PropertyId && id5PropertyId.charAt(0) !== '%') {
+  var id5Script = document.createElement('script');
+  id5Script.src = '//cdn.id5-sync.com/api/1.0/id5-api.js';
+  id5Script['onload'] = function (e) {
+    ID5.init({ partnerId: Number(id5PropertyId), provider: 'aps' })
+  };
+  document.head.appendChild(id5Script);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+var id5PropertyId = '882';
+if (id5PropertyId && id5PropertyId.charAt(0) !== '%') {
+  var id5Script = document.createElement('script');
+  id5Script.src = '//cdn.id5-sync.com/api/1.0/id5-api.js';
+  id5Script['onload'] = function (e) {
+    ID5.init({ partnerId: Number(id5PropertyId), provider: 'aps' })
+  };
+  document.head.appendChild(id5Script);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"liveRamp","propertyId":"106","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveRamp__ = false;}})();
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveRamp__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"lotame","propertyId":undefined,"allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+if (!window['lotame_sync_16576']) {
+  var lotameClientId = '16576';
+
+  initLotame(lotameClientId);
+  createLotameScript(lotameClientId);
+
+  function initLotame(propertyId) {
+    var lotameConfig = {};
+    var namespace = window['lotame_sync_' + propertyId] = {};
+    namespace.config = lotameConfig;
+    namespace.data = {};
+    namespace.cmd = namespace.cmd || [];
+
+    namespace.cmd.push(function () {
+      namespace.sync();
+    });
+  };
+
+  function createLotameScript(propertyId) {
+    var lotameSyncUrl = "https://tags.crwdcntrl.net/lt/c/" + propertyId + "/sync.min.js";
+    var lotameScriptTag = document.createElement('script');
+    lotameScriptTag.src = lotameSyncUrl;
+    document.head.appendChild(lotameScriptTag);
+  };
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+if (!window['lotame_sync_16576']) {
+  var lotameClientId = '16576';
+
+  initLotame(lotameClientId);
+  createLotameScript(lotameClientId);
+
+  function initLotame(propertyId) {
+    var lotameConfig = {};
+    var namespace = window['lotame_sync_' + propertyId] = {};
+    namespace.config = lotameConfig;
+    namespace.data = {};
+    namespace.cmd = namespace.cmd || [];
+
+    namespace.cmd.push(function () {
+      namespace.sync();
+    });
+  };
+
+  function createLotameScript(propertyId) {
+    var lotameSyncUrl = "https://tags.crwdcntrl.net/lt/c/" + propertyId + "/sync.min.js";
+    var lotameScriptTag = document.createElement('script');
+    lotameScriptTag.src = lotameSyncUrl;
+    document.head.appendChild(lotameScriptTag);
+  };
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"pubcommon","propertyId":undefined,"allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+if (!window.PublisherCommonId) {
+  var pubcommonScript = document.createElement('script');
+  pubcommonScript.src = '//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js';
+  document.head.appendChild(pubcommonScript);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+if (!window.PublisherCommonId) {
+  var pubcommonScript = document.createElement('script');
+  pubcommonScript.src = '//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js';
+  document.head.appendChild(pubcommonScript);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"yahoo","propertyId":"58657","allowedRegions":["US"],"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+["US"]?["US"].includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__connectId__ = false;}})();
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__connectId__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"block":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"liveintent","propertyId":"did-0047","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveintent__ = false;}})();
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveintent__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"33across","propertyId":"0013300001cFpYHAA0","allowedRegions":["JP","US","AU","CA"],"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+["JP","US","AU","CA"]?["JP","US","AU","CA"].includes("PK")&&(function anonymous(
+) {
+var lexiconPropertyId = '0013300001cFpYHAA0';
+if (lexiconPropertyId && lexiconPropertyId.charAt(0) !== '%') {
+  if (!window._33AcrossIdMappingsProvider) {
+    createlexiconScript(lexiconPropertyId);
+  }
+}
+
+function createlexiconScript(id) {
+  var lexiconScript = document.createElement('script');
+  lexiconScript.src = 'https://cdn-ima.33across.com/ima.js';
+  lexiconScript['onload'] = function (e) {
+    const my33AcrossIdProvider = new _33AcrossIdMappingsProvider({
+      pid: id,
+      refreshInSeconds: 60 * 60 * 8,
+      expires: 90,
+      src: 'aps'
+    });
+
+    my33AcrossIdProvider.fetch();
+  };
+  document.head.appendChild(lexiconScript);
+}
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var lexiconPropertyId = '0013300001cFpYHAA0';
+if (lexiconPropertyId && lexiconPropertyId.charAt(0) !== '%') {
+  if (!window._33AcrossIdMappingsProvider) {
+    createlexiconScript(lexiconPropertyId);
+  }
+}
+
+function createlexiconScript(id) {
+  var lexiconScript = document.createElement('script');
+  lexiconScript.src = 'https://cdn-ima.33across.com/ima.js';
+  lexiconScript['onload'] = function (e) {
+    const my33AcrossIdProvider = new _33AcrossIdMappingsProvider({
+      pid: id,
+      refreshInSeconds: 60 * 60 * 8,
+      expires: 90,
+      src: 'aps'
+    });
+
+    my33AcrossIdProvider.fetch();
+  };
+  document.head.appendChild(lexiconScript);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"audigent","propertyId":"474","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__audigent__ = false;}})();
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__audigent__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"id5","propertyId":"882","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var id5PropertyId = '882';
+if (id5PropertyId && id5PropertyId.charAt(0) !== '%') {
+  var id5Script = document.createElement('script');
+  id5Script.src = '//cdn.id5-sync.com/api/1.0/id5-api.js';
+  id5Script['onload'] = function (e) {
+    ID5.init({ partnerId: Number(id5PropertyId), provider: 'aps' })
+  };
+  document.head.appendChild(id5Script);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+var id5PropertyId = '882';
+if (id5PropertyId && id5PropertyId.charAt(0) !== '%') {
+  var id5Script = document.createElement('script');
+  id5Script.src = '//cdn.id5-sync.com/api/1.0/id5-api.js';
+  id5Script['onload'] = function (e) {
+    ID5.init({ partnerId: Number(id5PropertyId), provider: 'aps' })
+  };
+  document.head.appendChild(id5Script);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"liveRamp","propertyId":"106","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveRamp__ = false;}})();
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveRamp__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"lotame","propertyId":undefined,"allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+if (!window['lotame_sync_16576']) {
+  var lotameClientId = '16576';
+
+  initLotame(lotameClientId);
+  createLotameScript(lotameClientId);
+
+  function initLotame(propertyId) {
+    var lotameConfig = {};
+    var namespace = window['lotame_sync_' + propertyId] = {};
+    namespace.config = lotameConfig;
+    namespace.data = {};
+    namespace.cmd = namespace.cmd || [];
+
+    namespace.cmd.push(function () {
+      namespace.sync();
+    });
+  };
+
+  function createLotameScript(propertyId) {
+    var lotameSyncUrl = "https://tags.crwdcntrl.net/lt/c/" + propertyId + "/sync.min.js";
+    var lotameScriptTag = document.createElement('script');
+    lotameScriptTag.src = lotameSyncUrl;
+    document.head.appendChild(lotameScriptTag);
+  };
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+if (!window['lotame_sync_16576']) {
+  var lotameClientId = '16576';
+
+  initLotame(lotameClientId);
+  createLotameScript(lotameClientId);
+
+  function initLotame(propertyId) {
+    var lotameConfig = {};
+    var namespace = window['lotame_sync_' + propertyId] = {};
+    namespace.config = lotameConfig;
+    namespace.data = {};
+    namespace.cmd = namespace.cmd || [];
+
+    namespace.cmd.push(function () {
+      namespace.sync();
+    });
+  };
+
+  function createLotameScript(propertyId) {
+    var lotameSyncUrl = "https://tags.crwdcntrl.net/lt/c/" + propertyId + "/sync.min.js";
+    var lotameScriptTag = document.createElement('script');
+    lotameScriptTag.src = lotameSyncUrl;
+    document.head.appendChild(lotameScriptTag);
+  };
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"pubcommon","propertyId":undefined,"allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+if (!window.PublisherCommonId) {
+  var pubcommonScript = document.createElement('script');
+  pubcommonScript.src = '//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js';
+  document.head.appendChild(pubcommonScript);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+if (!window.PublisherCommonId) {
+  var pubcommonScript = document.createElement('script');
+  pubcommonScript.src = '//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js';
+  document.head.appendChild(pubcommonScript);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"yahoo","propertyId":"58657","allowedRegions":["US"],"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+["US"]?["US"].includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__connectId__ = false;}})();
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__connectId__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","matadornetwork.com","muskogeephoenix.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","somerset-kentucky.com","jcpenney.com","reporter.net","qlouisville.com","channel941.com","styleforum.net","madisoncourier.com","classicrock1059.fm","getpocket.com","couriernews.com","kccnfm100.com","saturdayroad.com","freetelly.com","saturdaydownsouth.com","filmmakermagazine.com","tahlequahdailypress.com","1035bobfm.com","stilwelldemocrat.com","bismanonline.com","classiccountry1043.com","thefedoralounge.com","pharostribune.com","classicrock965.com","enquirerjournal.com","joplinglobe.com","fayettetribune.com","hometownregister.com","sentinel-echo.com","knoxvillewolf.com","niagara-gazette.com","weatherforddemocrat.com","homeplans.com","wycoreport.com","chickashanews.com","timesenterprise.com","sudoku.com","athensreview.com","sharonherald.com","horseracingnation.com","thestudentroom.co.uk","claremoreprogress.com","andovertownsman.com","franklinfavorite.com","agrinews-pubs.com","heraldbanner.com","advfn.com","throtl.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","cricket.com.au","gainesvilleregister.com","messenger-inquirer.com","awesome995.com","hgazette.com","classicrock1045.fm","farmtalknewspaper.com","zoosk.com","hendersondispatch.com","thedailystar.com","grandhaventribune.com","essence.com","beautycon.com","power965.com","starbeacon.com","classicrock1069.fm","z92.com","elkharttruth.com","douglascountysentinel.com","meridianstar.com","hammondstar.com","1027espn.com","kokomotribune.com","1073jamz.com","espnrichmond.com","saturdayoutwest.com","duboiscountyherald.com","time.is","h-ponline.com","bdtonline.com","alliednews.com","sltrib.com","957jamz.com","heraldbulletin.com","kmart.com","1067theriver.com","wshechicago.com","thetimestribune.com","dailyindependent.com","reason.com","lakeoconeebreeze.net","dailycorinthian.com","wikihow.com","thelandonline.com","shawlocal.com","hot1045.net","wtmx.com","mix1069.fm","normantranscript.com","transylvaniatimes.com","swimswam.com","ktts.com","woodwardnews.net","theadanews.com","duncanbanner.com","motherjones.com","973hits.com","guardonline.com","ftimes.com","fanatics.com","power1043.com","paulsvalleydailydemocrat.com","jonesborosun.com","signupgenius.com","995streetz.com","food52.com","khaleejtimes.com","1380kcim.com","crossville-chronicle.com","sportsbettingdime.com","nitrotype.com","dailyitem.com","reuters.com","timeswv.com","roysecityheraldbanner.com","slant.co","goshennews.com","1039thegroove.com","tribdem.com","salemnews.com","tunefind.com","greatschools.org","palestineherald.com","1037yourvariety.com","newburyportnews.com","wabcradio.com","104star.com","sears.com","coopercrier.com","t95.com","journalenterprise.com","journal-news.com","newtondailynews.com","aljazeera.com","crossingbroad.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","am590espnradio.com","gloucestertimes.com","stwnewspress.com","houseplans.com","richmondregister.com","101x.com","heraldpalladium.com","scribd.com","ncnewsonline.com","builderhouseplans.com","frontofficesports.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","theshoesnobblog.com","pressrepublican.com","classiccountry1070.com","saturdaytradition.com","doodle.com","itemonline.com","classicrock1067.fm","dreamhomesource.com","hawaiian105.com","star1021fm.com","k95country.com","rotowire.com","cleburnetimesreview.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","enidnews.com","uploadvr.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","wikihow.life","kfdi.com","record-eagle.com","effinghamdailynews.com","klbjfm.com","daytondailynews.com","lebanondemocrat.com","acl-radio.com","griffindailynews.com","newsradioklbj.com","montgomery-herald.com","textnow.com","phillymag.com","xosodaiphat.com","springfieldnewssun.com","derrynews.com","ottumwacourier.com","bradsdeals.com","flightaware.com","crestonnews.com","eplans.com","clintonherald.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","floorplans.com","harborcountry-news.com","awesome1009.com","classicrock1077.fm","dailycitizen.news","1071laz.com","accuradio.com","times-news.com","daltondailycitizen.com","moultrieobserver.com","mathgames.com","987kiss.com","slideshare.net","bostonmagazine.com","moabtimes.com","heraldledger.com","mooreamerican.com","tribstar.com","610wagg.com","tribune-democrat.com","mayfield-messenger.com","jacksonvilleprogress.com","aljazeera.net","tntradioempire.com","register-herald.com","radiolobo1065.com","guru99.com","ksgf.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"liveintent","propertyId":"did-0047","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveintent__ = false;}})();
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+(function(){if (window.apstag) {window.apstag.__liveintent__ = false;}})();
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wzzk.com","krater96.com","classicrock931.fm","x985fm.com","hot981.com","wabc.com","qlouisville.com","channel941.com","classicrock1059.fm","classiccountry1043.com","classicrock965.com","knoxvillewolf.com","awesome995.com","classicrock1045.fm","power965.com","classicrock1069.fm","z92.com","1073jamz.com","957jamz.com","1067theriver.com","mix1069.fm","ktts.com","973hits.com","power1043.com","995streetz.com","1380kcim.com","1039thegroove.com","1037yourvariety.com","wabcradio.com","104star.com","t95.com","am590espnradio.com","classiccountry1070.com","classicrock1067.fm","hawaiian105.com","star1021fm.com","awesome931.com","wabcsportsradio.com","classicrock1059omaha.com","kfdi.com","awesome1009.com","classicrock1077.fm","1071laz.com","987kiss.com","610wagg.com","tntradioempire.com","radiolobo1065.com","ksgf.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"intertechmedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'intertechmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'intertechmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["matadornetwork.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"matadorventures|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'matadorventures|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'matadorventures|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["muskogeephoenix.com","somerset-kentucky.com","reporter.net","tahlequahdailypress.com","stilwelldemocrat.com","pharostribune.com","joplinglobe.com","fayettetribune.com","sentinel-echo.com","niagara-gazette.com","weatherforddemocrat.com","wycoreport.com","chickashanews.com","timesenterprise.com","athensreview.com","sharonherald.com","claremoreprogress.com","andovertownsman.com","heraldbanner.com","valdostadailytimes.com","commercial-news.com","mcalesternews.com","enewscourier.com","rockwallheraldbanner.com","washtimesherald.com","gainesvilleregister.com","hgazette.com","farmtalknewspaper.com","thedailystar.com","starbeacon.com","meridianstar.com","kokomotribune.com","bdtonline.com","alliednews.com","heraldbulletin.com","thetimestribune.com","dailyindependent.com","lakeoconeebreeze.net","thelandonline.com","normantranscript.com","transylvaniatimes.com","woodwardnews.net","theadanews.com","duncanbanner.com","paulsvalleydailydemocrat.com","crossville-chronicle.com","dailyitem.com","timeswv.com","roysecityheraldbanner.com","goshennews.com","tribdem.com","salemnews.com","palestineherald.com","newburyportnews.com","coopercrier.com","tiftongazette.com","newsaegis.com","corsicanadailysun.com","meadvilletribune.com","carriagetownenews.com","gloucestertimes.com","stwnewspress.com","richmondregister.com","ncnewsonline.com","unionrecorder.com","mankatofreepress.com","lockportjournal.com","oskaloosa.com","pressrepublican.com","itemonline.com","cleburnetimesreview.com","enidnews.com","newsandtribune.com","eagletribune.com","ptonline.net","greensburgdailynews.com","record-eagle.com","effinghamdailynews.com","montgomery-herald.com","derrynews.com","ottumwacourier.com","clintonherald.com","dailycitizen.news","times-news.com","daltondailycitizen.com","moultrieobserver.com","mooreamerican.com","tribstar.com","tribune-democrat.com","jacksonvilleprogress.com","register-herald.com","cullmantimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"cnhi|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'cnhi|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'cnhi|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["styleforum.net","thefedoralounge.com","theshoesnobblog.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"styleforum|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'styleforum|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'styleforum|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["madisoncourier.com","couriernews.com","enquirerjournal.com","franklinfavorite.com","messenger-inquirer.com","hendersondispatch.com","grandhaventribune.com","elkharttruth.com","douglascountysentinel.com","hammondstar.com","duboiscountyherald.com","h-ponline.com","dailycorinthian.com","guardonline.com","ftimes.com","jonesborosun.com","journalenterprise.com","heraldpalladium.com","lebanondemocrat.com","griffindailynews.com","chronicle-tribune.com","kentuckynewera.com","lpheralddispatch.com","harborcountry-news.com","heraldledger.com","mayfield-messenger.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"paxtonmediagroup|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'paxtonmediagroup|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'paxtonmediagroup|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["getpocket.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"mozillacorporation|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'mozillacorporation|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'mozillacorporation|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["kccnfm100.com","hometownregister.com","homeplans.com","espnrichmond.com","hot1045.net","houseplans.com","builderhouseplans.com","dreamhomesource.com","k95country.com","eplans.com","floorplans.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"zondahome|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'zondahome|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'zondahome|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["saturdayroad.com","saturdaydownsouth.com","saturdayoutwest.com","sportsbettingdime.com","crossingbroad.com","saturdaytradition.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"xlmedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'xlmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'xlmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["freetelly.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"telly|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'telly|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'telly|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["filmmakermagazine.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"theindependentfeature|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'theindependentfeature|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'theindependentfeature|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["1035bobfm.com","1027espn.com","101x.com","klbjfm.com","acl-radio.com","newsradioklbj.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"waterloomedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'waterloomedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'waterloomedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["horseracingnation.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"horseracinglabs|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'horseracinglabs|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'horseracinglabs|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["thestudentroom.co.uk"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"thestudentroom|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'thestudentroom|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'thestudentroom|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["agrinews-pubs.com","shawlocal.com","newtondailynews.com","crestonnews.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"shawmedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'shawmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'shawmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["advfn.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"advfn|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'advfn|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'advfn|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["cricket.com.au"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"cricketaustralia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'cricketaustralia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'cricketaustralia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["zoosk.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"sparknetworks|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'sparknetworks|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'sparknetworks|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["sltrib.com","moabtimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"saltlaketribune|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'saltlaketribune|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'saltlaketribune|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wshechicago.com","wtmx.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"hubbard|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'hubbard|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'hubbard|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["wikihow.com","wikihow.life"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"wikihow|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'wikihow|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'wikihow|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["swimswam.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"swimswam|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'swimswam|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'swimswam|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["motherjones.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"motherjones|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'motherjones|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'motherjones|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["food52.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"food52|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'food52|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'food52|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["khaleejtimes.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"khaleejtimes|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'khaleejtimes|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'khaleejtimes|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["tunefind.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"tunefind|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'tunefind|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'tunefind|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["greatschools.org"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"greatschools|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'greatschools|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'greatschools|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["journal-news.com","daytondailynews.com","springfieldnewssun.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"coxenterprises|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'coxenterprises|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'coxenterprises|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["scribd.com","slideshare.net"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"scribd|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'scribd|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'scribd|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["frontofficesports.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"frontofficesports|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'frontofficesports|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'frontofficesports|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["doodle.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"doodle|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'doodle|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'doodle|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["uploadvr.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"uvrmedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'uvrmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'uvrmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["textnow.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"textnow|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'textnow|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'textnow|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["phillymag.com","bostonmagazine.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"metrocorpmedia|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'metrocorpmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'metrocorpmedia|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["xosodaiphat.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"xosodaiphat|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'xosodaiphat|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'xosodaiphat|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["flightaware.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"flightaware|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'flightaware|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'flightaware|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["guru99.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"browsi","propertyId":"guru99tech|d_mapping","allowedRegions":undefined,"blockedRegions":undefined,"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var browsiPropertyId = 'guru99tech|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})():(!undefined||undefined&&!undefined.includes("PK"))&&(function anonymous(
+) {
+var browsiPropertyId = 'guru99tech|d_mapping';
+var browsiSiteId = '';
+var browsiPubId = '';
+if (browsiPropertyId && (browsiPropertyId.charAt(0) !== '%') && !window.top.browsitag) {
+  var browsiArr = browsiPropertyId.split('|');
+  browsiPubId = browsiArr[0];
+  browsiSiteId = browsiArr[1];
+  buildBrowsiScript(browsiSiteId,browsiPubId);
+}
+function buildBrowsiScript(siteId,pubId) {
+    var scriptTag = document.createElement('script');
+    scriptTag.async = true;
+    scriptTag.setAttribute('id','browsi-tag');
+    scriptTag.setAttribute('data-siteKey',siteId);
+    scriptTag.setAttribute('data-pubKey',pubId);
+    scriptTag.src = 'https://cdn.browsiprod.com/bootstrap/bootstrap.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptTag); 
+};
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["essence.com","beautycon.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"anonymised","propertyId":"NDE2","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var anonymisedPropertyId = 'NDE2'
+if(anonymisedPropertyId && (anonymisedPropertyId.charAt(0) !== '%') && !document.getElementById('idward-plugin-js')) {
+    var anonymisedScript = document.createElement('script');
+    anonymisedScript.setAttribute('async', '');
+    anonymisedScript.src = 'https://static.anonymised.io/light/loader.js?ref=aps&d='+document.location.hostname;
+    anonymisedScript.id = 'idward-plugin-js';
+    anonymisedScript.setAttribute('idw_client_id', anonymisedPropertyId);
+    anonymisedScript.setAttribute('idw_hide_button', 'true');
+    document.head.appendChild(anonymisedScript);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+var anonymisedPropertyId = 'NDE2'
+if(anonymisedPropertyId && (anonymisedPropertyId.charAt(0) !== '%') && !document.getElementById('idward-plugin-js')) {
+    var anonymisedScript = document.createElement('script');
+    anonymisedScript.setAttribute('async', '');
+    anonymisedScript.src = 'https://static.anonymised.io/light/loader.js?ref=aps&d='+document.location.hostname;
+    anonymisedScript.id = 'idward-plugin-js';
+    anonymisedScript.setAttribute('idw_client_id', anonymisedPropertyId);
+    anonymisedScript.setAttribute('idw_hide_button', 'true');
+    document.head.appendChild(anonymisedScript);
+}
+})()
+}});record("idVendors/integration/execute",{"restrictions":{"allow":{"dtbHostnames":["reuters.com"]}},"accountId":"0ab198dd-b265-462a-ae36-74e163ad6159","sourceId":"600","countryCode":"PK","vendorId":"anonymised","propertyId":"MjI1OQ==","allowedRegions":undefined,"blockedRegions":["BR"],"vendorLoadedSampleRate":5,"script":function anonymous(
+) {
+undefined?undefined.includes("PK")&&(function anonymous(
+) {
+var anonymisedPropertyId = 'MjI1OQ=='
+if(anonymisedPropertyId && (anonymisedPropertyId.charAt(0) !== '%') && !document.getElementById('idward-plugin-js')) {
+    var anonymisedScript = document.createElement('script');
+    anonymisedScript.setAttribute('async', '');
+    anonymisedScript.src = 'https://static.anonymised.io/light/loader.js?ref=aps&d='+document.location.hostname;
+    anonymisedScript.id = 'idward-plugin-js';
+    anonymisedScript.setAttribute('idw_client_id', anonymisedPropertyId);
+    anonymisedScript.setAttribute('idw_hide_button', 'true');
+    document.head.appendChild(anonymisedScript);
+}
+})():(!["BR"]||["BR"]&&!["BR"].includes("PK"))&&(function anonymous(
+) {
+var anonymisedPropertyId = 'MjI1OQ=='
+if(anonymisedPropertyId && (anonymisedPropertyId.charAt(0) !== '%') && !document.getElementById('idward-plugin-js')) {
+    var anonymisedScript = document.createElement('script');
+    anonymisedScript.setAttribute('async', '');
+    anonymisedScript.src = 'https://static.anonymised.io/light/loader.js?ref=aps&d='+document.location.hostname;
+    anonymisedScript.id = 'idward-plugin-js';
+    anonymisedScript.setAttribute('idw_client_id', anonymisedPropertyId);
+    anonymisedScript.setAttribute('idw_hide_button', 'true');
+    document.head.appendChild(anonymisedScript);
+}
+})()
+}});record("_config/config/didLoad",undefined)}catch(e){console.error(e)}})();

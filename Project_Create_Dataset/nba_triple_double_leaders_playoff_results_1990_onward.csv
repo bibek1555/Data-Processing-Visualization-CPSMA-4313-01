@@ -1,0 +1,42 @@
+Season,SeasonStartYear,PlayoffYear,SeasonStatus,PlayerLeaderboardName,Player,TripleDoubles,IsTiedLeader,TeamAbbrev,Team,PlayoffQualification,PlayoffRoundReached,FinalPlayoffResult
+1990-91,1990,1991,Completed,M. Johnson*,,13,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1991-92,1991,1992,Completed,M. Jordan* (2),,2,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1991-92,1991,1992,Completed,G. Payton* (2),,2,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1991-92,1991,1992,Completed,S. Pippen* (2),,2,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1991-92,1991,1992,Completed,D. Robinson*,,2,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1992-93,1992,1993,Completed,C. Barkley*,,6,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1993-94,1993,1994,Completed,D. Robinson*,,5,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1994-95,1994,1995,Completed,J. Kidd*,,4,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1995-96,1995,1996,Completed,G. Hill*,,10,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1996-97,1996,1997,Completed,G. Hill*,,13,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1997-98,1997,1998,Completed,G. Hill* (4),,4,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1997-98,1997,1998,Completed,J. Kidd*,,4,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1998-99,1998,1999,Completed,J. Kidd*,,7,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1999-00,1999,2000,Completed,J. Kidd* (5),,5,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+1999-00,1999,2000,Completed,C. Webber*,,5,True,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2000-01,2000,2001,Completed,J. Kidd*,,7,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2001-02,2001,2002,Completed,J. Kidd*,,8,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2002-03,2002,2003,Completed,K. Garnett*,,6,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2003-04,2003,2004,Completed,J. Kidd*,,9,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2004-05,2004,2005,Completed,J. Kidd*,,8,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2005-06,2005,2006,Completed,J. Kidd*,,8,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2006-07,2006,2007,Completed,J. Kidd*,,12,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2007-08,2007,2008,Completed,J. Kidd*,,13,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2008-09,2008,2009,Completed,L. James,LeBron James,7,False,CLE,Cleveland Cavaliers,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2009-10,2009,2010,Completed,L. James,LeBron James,4,False,CLE,Cleveland Cavaliers,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2010-11,2010,2011,Completed,L. James,LeBron James,4,False,MIA,Miami Heat,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2011-12,2011,2012,Completed,R. Rondo,Rajon Rondo,6,False,BOS,Boston Celtics,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2012-13,2012,2013,Completed,R. Rondo,Rajon Rondo,5,False,BOS,Boston Celtics,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2013-14,2013,2014,Completed,L. Stephenson,Lance Stephenson,5,False,IND,Indiana Pacers,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2014-15,2014,2015,Completed,R. Westbrook,Russell Westbrook,11,False,OKC,Oklahoma City Thunder,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2015-16,2015,2016,Completed,R. Westbrook,Russell Westbrook,18,False,OKC,Oklahoma City Thunder,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2016-17,2016,2017,Completed,R. Westbrook,Russell Westbrook,42,False,OKC,Oklahoma City Thunder,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2017-18,2017,2018,Completed,R. Westbrook,Russell Westbrook,25,False,OKC,Oklahoma City Thunder,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2018-19,2018,2019,Completed,R. Westbrook,Russell Westbrook,34,False,OKC,Oklahoma City Thunder,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2019-20,2019,2020,Completed,L. Dončić,,17,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2020-21,2020,2021,Completed,R. Westbrook,Russell Westbrook,38,False,WAS,Washington Wizards,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2021-22,2021,2022,Completed,N. Jokić,,19,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2022-23,2022,2023,Completed,N. Jokić,,29,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2023-24,2023,2024,Completed,D. Sabonis,Domantas Sabonis,26,False,SAC,Sacramento Kings,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2024-25,2024,2025,Completed,N. Jokić,,34,False,,,Did Not Make Playoffs,Did Not Make Playoffs,Did Not Make Playoffs
+2025-26,2025,2026,Season In Progress,N. Jokić,,34,False,,,Not Yet Available,Not Yet Available,Not Yet Available
